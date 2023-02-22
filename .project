@@ -1,7 +1,7 @@
 {
     "date": ["2015.04", "2015.09"],
-    "hardware": ["SOLID_PINE_WOOD", "NATURAL OIL", "WAX"],
-    "software": ["KUTZALL WHEELS", "IDRAW", "SILO3D"],
-    "overview": "",
+    "hardware": ["SOLID_PINE_WOOD", "KUTZALL WHEELS", "NATURAL OIL", "NATURAL OIL"],
+    "software": ["IDRAW", "SILO3D"],
+    "overview": " проверка [SLIT-SCAN_PHOTOGRAPHY](https://en.wikipedia.org/wiki/Slit-scan_photography)",
     "making": ""
 }
