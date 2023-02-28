@@ -1,7 +1,7 @@
 
 # [ewwgene.github.io /](https://ewwgene.github.io/) [_DESIGN_ /](https://ewwgene.github.io/DESIGN) Cocoon
 
-[![Cocoon](/100.jpg)](https://ewwgene.github.io/Cocoon/Carousel)<a id="101" href="https://ewwgene.github.io/Cocoon/Carousel/#101"><img src="https://ewwgene.github.io/Cocoon/101.jpg" height="66"></a> <a id="102" href="https://ewwgene.github.io/Cocoon/Carousel/#102"><img src="https://ewwgene.github.io/Cocoon/102.jpg" height="66"></a> <a id="110" href="https://ewwgene.github.io/Cocoon/Carousel/#110"><img src="https://ewwgene.github.io/Cocoon/110.jpg" height="66"></a> <a id="111" href="https://ewwgene.github.io/Cocoon/Carousel/#111"><img src="https://ewwgene.github.io/Cocoon/111.jpg" height="66"></a> <a id="text">&#160;</a>
+[![Cocoon](/100.jpg)](https://ewwgene.github.io/Cocoon/Carousel)<br> <a id="101" href="https://ewwgene.github.io/Cocoon/Carousel/#101"><img src="https://ewwgene.github.io/Cocoon/101.jpg" height="66"></a> <a id="102" href="https://ewwgene.github.io/Cocoon/Carousel/#102"><img src="https://ewwgene.github.io/Cocoon/102.jpg" height="66"></a> <a id="110" href="https://ewwgene.github.io/Cocoon/Carousel/#110"><img src="https://ewwgene.github.io/Cocoon/110.jpg" height="66"></a> <a id="111" href="https://ewwgene.github.io/Cocoon/Carousel/#111"><img src="https://ewwgene.github.io/Cocoon/111.jpg" height="66"></a> <a id="text">&#160;</a>
 
 _`SOLID_PINE_WOOD`_ _`PLASTER`_ 
 
@@ -17,5 +17,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 _`DESIGN SERIES`_ _`SCULPTURE`_ 
+
+<br> 
+
 ### [ABOUT /](https://ewwgene.github.io/ABOUT)
 ### [MAIL_TO:](mailto:r0cam@me.com)
