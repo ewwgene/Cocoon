@@ -10,7 +10,7 @@ _`SOLID_PINE_WOOD`_ _`WAX`_
 ### Making — _2015.04-2015.09._
 <a id="200m" href="https://ewwgene.github.io/Cocoon/Carousel/#200m"><img src="https://ewwgene.github.io/Cocoon/Making/200.jpg" height="66"></a>  
 
-_`IDRAW`_ _`SILO_3D`_  _**`KUTZALL WHEELS`**_ 
+_`IDRAW`_ _`SILO_3D`_  _**`KUTZALL_WHEELS`**_ 
 
 Фигурная форма фрезерованна твердосплавными дисками  _**`KUTZALL_WHEELS`**_. Размеры _1200mm&times;900mm&times;400mm_.
 

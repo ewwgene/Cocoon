@@ -2,7 +2,7 @@
     "date": ["2015.04", "2015.09"],
     "medium": ["DESIGN", "SCULPTURE", "FURNITURE"],
     "material": ["SOLID_PINE_WOOD", "WAX"],
-    "hardware": ["KUTZALL WHEELS"],
+    "hardware": ["KUTZALL_WHEELS"],
     "software": ["IDRAW", "SILO_3D"],
     "overview": "Журнальный стол фигурной формы, массив дерева.",
     "making": "Фигурная форма фрезерованна твердосплавными дисками  _**`KUTZALL_WHEELS`**_. Размеры _1200mm&times;900mm&times;400mm_."
